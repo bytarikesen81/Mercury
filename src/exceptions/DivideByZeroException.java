@@ -5,7 +5,7 @@ import java.io.*;
 import java.lang.*;
 
 
-public class DivideByZeroException{
+public class DivideByZeroException extends IOException{
   private final String msg;
   public DivideByZeroException(String msg){
       super(msg);
