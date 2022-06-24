@@ -1,0 +1,18 @@
+Êþº¾   = >  program/AboutScreen$1  java/lang/Object  java/lang/Runnable <init> ()V Code
+     LineNumberTable LocalVariableTable this Lprogram/AboutScreen$1; run  program/AboutScreen
+  
+     setLocationRelativeTo (Ljava/awt/Component;)V
+     setResizable (Z)V
+     setUndecorated
+    ! " getRootPane ()Ljavax/swing/JRootPane;
+ $ & % javax/swing/JRootPane ' ( setWindowDecorationStyle (I)V
+  * +  
+setVisible
+ - / . java/lang/Exception 0  printStackTrace frame Lprogram/AboutScreen; e Ljava/lang/Exception; 
+StackMapTable 
+SourceFile AboutScreen.java EnclosingMethod : ; main ([Ljava/lang/String;)V InnerClasses NestHost               	   /     *· 
+±            
+                	         -» Y· L+¶ +¶ +¶ +¶ ¶ #+¶ )§ L+¶ ,±    $ ' -     & 	   !  " 
+ #  $  %  & $ ' ( ( , * 
+        -       1 2  (  3 4  5    g -  6    7 8     9 <   
+         =    
