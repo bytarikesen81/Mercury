@@ -1,3 +1,2 @@
-![mainlogo](https://user-images.githubusercontent.com/41027583/175617239-147d57e4-3283-4ebf-a1af-4254a41364e5.png)
-# Mercury
+# Mercury ![location](https://user-images.githubusercontent.com/41027583/175617369-f12569c5-c7ff-41c1-ad81-381500924f13.png)
 A personal airport transportation system made for desktop
