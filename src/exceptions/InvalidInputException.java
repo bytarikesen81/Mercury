@@ -6,7 +6,7 @@ import java.lang.*;
 
 
 public class InvalidInputException extends RuntimeException{
-  public final String msg;
+  private final String msg;
   public InvalidException(String msg){
     super(msg); 
     this.msg = msg
