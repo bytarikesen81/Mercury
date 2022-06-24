@@ -1,2 +1,3 @@
-# Mercury ![location](https://user-images.githubusercontent.com/41027583/175617369-f12569c5-c7ff-41c1-ad81-381500924f13.png)
+# Mercury 
 A personal airport transportation system made for desktop
+[mainlogo](https://user-images.githubusercontent.com/41027583/175617690-66220d3e-4a05-46ee-8af9-084b9629140f.png)
